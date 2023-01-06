@@ -25,7 +25,7 @@ With all its own operations👌:\
 ✔ Draw 🎨 the note you want 👌❤️.\
 ✔ You can change the color of the note with the color you want 🤩.\
 ✔ The app also supports Arabic and English 🌐\
-✔ The design is suitable for all screen sizes👌✨\
+✔ The design is suitable for all screen sizes👌✨
 
 
 # Screenshots
