@@ -5,7 +5,7 @@ Note-taking app local database "Sqflite"\
 With all its own operations👌:\
 CRUD system.
 
-![E-Commerce App (1)](https://user-images.githubusercontent.com/60518534/211018545-a1ee81f8-7b2c-492e-ade8-e1a588df34cd.gif)
+![](https://user-images.githubusercontent.com/60518534/211018545-a1ee81f8-7b2c-492e-ade8-e1a588df34cd.gif)
 #### [Video](https://www.linkedin.com/posts/mahmoudalaa2210_bloc-flutterabrbloc-sqflite-activity-7005512754648264705-AdpS?utm_source=share&utm_medium=member_desktop)
 
 ## Download App 
